@@ -10,7 +10,10 @@ body {
     padding-top: 20px;
     padding-bottom: 20px;
 }
-
+.link a{
+    text-decoration: none;
+    color: black;
+}
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing,
