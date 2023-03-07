@@ -10,8 +10,9 @@ Results-driven senior software engineer with 9+ years of experience developing a
 
 
 ## Skills
-Languages: NodeJS, Golang, Javascript, Typescript, GraphQL, Python, Bash
-Tools: React, PostgreSQL, Terraform, Ansible, CircleCI, Nginx, SQL, Git, AWS, Agile, Redis, Docker
+Languages: NodeJS, Golang, Javascript, Typescript, GraphQL, Python, Bash, React, PostgreSQL
+
+Tools: Terraform, Ansible, CircleCI, Nginx, SQL, Git, AWS, Agile, Redis, Docker
 
 ## Work Experience
 
