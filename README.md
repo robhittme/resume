@@ -1,4 +1,4 @@
-# resume
+# Resume
 
 Robert Hitt
 Software Engineer
