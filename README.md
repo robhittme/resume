@@ -1,8 +1,11 @@
 # Resume
 
 Robert Hitt
+
 Software Engineer
+
 Washington, DC
+
 robhittme@gmail.com | linkedin.com/in/robhittme
 
 ## Summary
