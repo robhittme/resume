@@ -8,7 +8,6 @@ robhittme@gmail.com | linkedin.com/in/robhittme
 ## Summary
 Results-driven senior software engineer with 9+ years of experience developing and maintaining scalable applications. Proficient in a variety of programming languages, including NodeJS, Typescript, and Golang. Skilled in building and maintaining API, infrastructure, and database systems using technologies such as Terraform, Ansible, Nginx, PostgreSQL, and Redis.
 
-
 ## Skills
 Languages: NodeJS, Golang, Javascript, Typescript, PostgreSQL, GraphQL, React, Python, Bash
 
