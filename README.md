@@ -23,7 +23,7 @@ Tools: Terraform, Ansible, CircleCI, Nginx, SQL, Git, AWS, Agile, Redis, Docker
 * Built infrastructure utilizing Terraform, Ansible, and Nginx within the AWS ecosystem.
 * Researched and strategized fleet management approach for IoT devices.
 
-### Senior Software Engineer, Wirewheel, 2021 – 2022
+### Senior Software Engineer, Wirewheel.io, 2021 – 2022
 * Worked on a team to create a new product for scale.
 * Created a platform to enable companies to more effectively navigate privacy compliance using Golang, Typescript, and Postgres.
 * Built interpreter in both Golang and Typescript.
