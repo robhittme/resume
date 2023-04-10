@@ -12,7 +12,7 @@ Software engineer with 9+ years of experience developing and maintaining scalabl
 ## Skills
 Languages: NodeJS, Golang, Javascript, Typescript, PostgreSQL, GraphQL, React, Python, Bash
 
-Tools: Terraform, Ansible, CircleCI, Nginx, SQL, Git, AWS, Agile, Redis, Docker
+Tools: Terraform, Ansible, CircleCI, Nginx, SQL, Git, AWS, Redis, Docker
 
 ## Work Experience
 
