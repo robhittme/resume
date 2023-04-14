@@ -10,7 +10,7 @@ linkedin.com/in/robhittme
 Software engineer with 9+ years of experience developing and maintaining scalable applications. Proficient in a variety of programming languages, including NodeJS, Typescript, and Golang. Skilled in building and maintaining API, infrastructure, and database systems using technologies such as Terraform, Ansible, Nginx, PostgreSQL, and Redis.
 
 ## Skills
-Languages: NodeJS, Golang, Javascript, Typescript, PostgreSQL, GraphQL, React, Python, Bash
+Languages: Node, Golang, Javascript, Typescript, PostgreSQL, GraphQL, React, Python, Bash
 
 Tools: Terraform, Ansible, CircleCI, Nginx, SQL, Git, AWS, Redis, Docker
 
