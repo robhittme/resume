@@ -19,7 +19,7 @@ Tools: Terraform, Ansible, CircleCI, Nginx, SQL, Git, AWS, Redis, Docker
 ### Senior Software Engineer, Cognition Controls, 2022 – 2023
 * Worked at the ground level to create an HVAC solution for commercial buildings using model predictive control to better provide comfort.
 * Responsible for building and maintaining the backend, database and infrastructure for the company.
-* Built and maintained API and database using Typescript and Postgres.
+* Built and maintained API and database using Typescript and Postgresql.
 * Built infrastructure utilizing Terraform, Ansible, and Nginx within the AWS ecosystem.
 * Researched and strategized fleet management approach for IoT devices.
 
