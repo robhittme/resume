@@ -33,7 +33,7 @@ Tools: Terraform, Ansible, CircleCI, Nginx, SQL, Git, AWS, Redis, Docker
 ### Senior Full Stack Engineer, Upside Business Travel, 2016 – 2021
 * Worked on every system in the company from shopping, booking, and payments.
 * Developed microservices using Node, React, Typescript, and Golang.
-* Integrated with AWS suites such as DynamoDB, Redis, SQS, and SNS.
+* Integrated with AWS cloud infrastructure such as DynamoDB, Redis, SQS, and SNS.
 * Integrated with large-scale vendor APIs such as Sabre and Expedia.
 
 ### Frontend Engineer, Qonceptual, 2014 – 2016
